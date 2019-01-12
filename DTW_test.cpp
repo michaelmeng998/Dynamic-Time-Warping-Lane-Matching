@@ -371,7 +371,7 @@ vector<vector<double>> MatrixCreate(vector<double> SeriesA, vector<double> Serie
 
     cout << endl
          << "Matrix Visualizer (Negative Represents Optimal Matrix Traversal Path): " << endl
-         << "The left column represents series A and the bottom column represents Series B, the 0 at the bottom right is a placeholder"
+         << "The left column represents series A and the bottom column represents Series B, the 0 at the bottom left is a placeholder"
          << endl
          << endl
          << endl
